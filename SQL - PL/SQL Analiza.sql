@@ -5,10 +5,9 @@
 USE Analiza
 SELECT * FROM dbo.WyczDane
 
---PROSZÊ ZWRÓCIÆ UWAGÊ--
---Poni¿szy kod mo¿e nie dzia³aæ zgodnie z oczekiwaniami w tym pliku SQL, poniewa¿ tabela zosta³a ju¿ przez niego zmodyfikowana
---Aby sprawdziæ funkcjonalnoœæ ca³ego kodu, zalecam utworzenie nowego pliku SQL, zaimportowanie pliku Excela, a nastêpnie 
---uruchomienie kodu. Wszystko poni¿ej sekcji Kalkulacje dzia³a poprawnie. 
+--UWAGA--
+--Aby sprawdziæ dzia³anie ca³ego kodu, zalecam utworzenie nowego pliku SQL, zaimportowanie pliku Excel, a nastêpnie 
+--uruchomienie kodu.
 
 --Sprawdzanie typu danych dla wszystkich kolumn
 SELECT *
